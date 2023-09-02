@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       // theme: ThemeData.dark(),
       darkTheme: ThemeData.dark(),
       theme: ThemeData.dark(),
-      home: const HomePage(),
+      home: const NoteHome(),
     );
   }
 }
